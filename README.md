@@ -44,9 +44,9 @@ PRIVMSG : Kanala ya da kullanıcıya doğrudan mesaj atar.
 IRC Protokollerine ulasmak icin:
 [RFC 1459_ Internet Relay Chat Protocol.pdf](https://github.com/user-attachments/files/15532807/RFC.1459_.Internet.Relay.Chat.Protocol.pdf)
 
-Hexchat indirmek icin; (MAC icin)
+Hexchat indirmek icin: (MAC icin)
 https://mac.filehorse.com/download-hexchat/
 
-Hexchat indirmek icin; (WINDOWS icin)
+Hexchat indirmek icin: (WINDOWS icin)
 https://www.filehorse.com/download-hexchat/
 
