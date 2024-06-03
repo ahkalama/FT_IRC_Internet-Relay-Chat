@@ -1,5 +1,7 @@
 *Hexchat te komutların algılanması için başına '/' koymak gerekiyor.*
 
+https://github.com/ahkalama/FT_IRC_Internet-Relay-Chat/assets/116187665/ed66fcac-0a4c-4bf8-97cb-acd4a89bed53
+
 ## Server Komutları
 
 PASS : nc ile bağlandığımızda kanal şifresi istediğinde kullanılır 
@@ -34,6 +36,4 @@ NOTICE : Bir mesaj değil Bildirim atmak için kullanılır.
 
 PRIVMSG : Kanala ya da kullanıcıya doğrudan mesaj atar.
 ~ "/PRIVMSG <KanalAdı> <Mesaj>" formatında kullanılabilir.
-
-https://github.com/ahkalama/FT_IRC_Internet-Relay-Chat/assets/116187665/ed66fcac-0a4c-4bf8-97cb-acd4a89bed53
 
