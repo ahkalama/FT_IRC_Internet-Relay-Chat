@@ -39,3 +39,5 @@ NOTICE : Bir mesaj değil Bildirim atmak için kullanılır.
 PRIVMSG : Kanala ya da kullanıcıya doğrudan mesaj atar.
 ~ "/PRIVMSG <KanalAdı> <Mesaj>" formatında kullanılabilir.
 
+IRC Protokollerine ulasmak icin:
+[RFC 1459_ Internet Relay Chat Protocol.pdf](https://github.com/user-attachments/files/15532807/RFC.1459_.Internet.Relay.Chat.Protocol.pdf)
