@@ -10,7 +10,7 @@ PASS : nc ile bağlandığımızda kanal şifresi istediğinde kullanılır
 ~ "/PASS 123" formatında girilmelidir.
 
 NICK : nc ile bağlandığımızda nickname istendiğinde girilmelidir. 
-~ "/NICK tturna" formatında girilmelidir
+~ "/NICK ahkalama" formatında girilmelidir
 
 USER : nc ile username girmek için kullanılır.
 ~ "/USER <USERNAME> <HOSTNAME> <SERVERNAME> <REALNAME> olarak girilir.
@@ -28,7 +28,7 @@ MODE : Kanal yetkilerini yönetmek için kullanılabilir.
 ~ "/MODE <KanalAdı> <YetkiOperatörü> <Sifre-Isim> 
 
 KICK : Kanalda ki kullanıcıları atar, yalnızca operatorler kickleyebilir.
-~ "/KICK tturna " formatında kullanılır.
+~ "/KICK ahkalama " formatında kullanılır.
 
 INVITE : Kullanıcılara davet atmak için kullanırız.
 ~ "/INVITE <KullanıcıAdı> <KanalAdı>" formatında kullanılır.
