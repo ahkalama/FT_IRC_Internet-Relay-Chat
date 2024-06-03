@@ -71,7 +71,7 @@ void Server::modesLimit(chanIt& it, std::vector<std::string>& params, int* flag)
         return ;
     *flag = 1;
     if (params[1] == "+l" && params.size() == 3)
-        it->_userLimit = std::stoi(params[2]);
+        it->_userLimit = std::atoi(params[2].c_str());
     else if (params[1] == "+l" && params.size() != 3)
         std::cout << "Not enough paramaters for '+l' " << std::endl;
     Utils::writeMessage(getOpFd(it->_opNick), RPL_MODE(it->_opNick, params[0], "+l", params[2]));
