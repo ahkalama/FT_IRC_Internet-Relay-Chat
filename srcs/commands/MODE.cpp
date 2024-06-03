@@ -9,8 +9,6 @@ void Server::Mode(std::vector<std::string>& params, Client& cli)
         Utils::writeMessage(cli._cliFd, ERR_NEEDMOREPARAMS(cli._nick, params[0]));
         return ;
     }
-    if (params.size() == 1)
-        return;
     if (!isChannelExist(params[0])) {
         Utils::writeMessage(cli._cliFd, ERR_NOSUCHCHANNEL(cli._nick, params[0]));
         return;
