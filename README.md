@@ -1,4 +1,4 @@
-#![hexchat html](https://github.com/ahkalama/FT_IRC_Internet-Relay-Chat/assets/116187665/ea4c4bea-4c68-4b55-82df-7465d900298b)
+![hexchat html](https://github.com/ahkalama/FT_IRC_Internet-Relay-Chat/assets/116187665/ea4c4bea-4c68-4b55-82df-7465d900298b)
 
 *Hexchat te komutların algılanması için başına '/' koymak gerekiyor.*
 
