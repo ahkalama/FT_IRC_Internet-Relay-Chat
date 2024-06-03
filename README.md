@@ -1,6 +1,6 @@
 *Hexchat te komutların algılanması için başına '/' koymak gerekiyor.*
 
-## ~SERVER KOMUTLARI~
+## Server Komutları
 
 PASS : nc ile bağlandığımızda kanal şifresi istediğinde kullanılır 
 ~ "/PASS 123" formatında girilmelidir.
