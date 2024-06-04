@@ -39,6 +39,9 @@ NOTICE : Bir mesaj değil Bildirim atmak için kullanılır.
 PRIVMSG : Kanala ya da kullanıcıya doğrudan mesaj atar.
 ~ "/PRIVMSG <KanalAdı> <Mesaj>" formatında kullanılabilir.
 
+TOPIC : Kanalın konusunu değiştirir.
+~ "/TOPIC <Mesaj>" formatında kullanılabilir.
+
 ## Yardımcı olacak linkler;
 
 IRC Protokollerine ulasmak icin:
