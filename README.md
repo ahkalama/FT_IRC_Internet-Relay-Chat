@@ -13,7 +13,7 @@ NICK : nc ile bağlandığımızda nickname istendiğinde girilmelidir.
 ~ "/NICK ahkalama" formatında girilmelidir
 
 USER : nc ile username girmek için kullanılır.
-~ "/USER USERNAME HOSTNAME SERVERNAME REALNAME olarak girilir.
+~ "/USER USERNAME HOSTNAME SERVERNAME REALNAME girilir.
 
 QUIT : Server ile bağlantıyı koparır.
 ~ "/QUIT " şeklinde kullanılır.
@@ -40,7 +40,7 @@ PRIVMSG : Kanala ya da kullanıcıya doğrudan mesaj atar.
 ~ "/PRIVMSG KanalAdı Mesaj" formatında kullanılabilir.
 
 TOPIC : Kanalın konusunu değiştirir.
-~ "/TOPIC Mesaj" formatında kullanılabilir.
+~ "/TOPIC konu" formatında kullanılabilir.
 
 ## Yardımcı olacak linkler;
 
