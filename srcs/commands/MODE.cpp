@@ -1,5 +1,5 @@
 #include "../../includes/Server.hpp"
-asdasd
+
 void Server::Mode(std::vector<std::string>& params, Client& cli)
 {
     passChecker(cli);
